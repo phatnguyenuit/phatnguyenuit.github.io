@@ -14,7 +14,7 @@ While working on Odoo, besides understanding its functional business workflows, 
 
 Now I am focusing on React.js and some relavant libraries, I started to say: "Hello World!" one years ago. I love coding with React.js because it has a special approach to web development. Instead of using server-side rendering, React.js uses client-side rendering as default.
 
-I had built some side-projects from simple to avantage combined with several useful Javascript libraries like Redux, React Router Redux Persist, Axios, Mongoose... You can refer it in [projects](/projects)
+I had built some side-projects from simple to advanced combined with several useful Javascript libraries like Redux, React Router Redux Persist, Axios, Mongoose... You can refer it in [projects](/projects)
 
 I have the ability and willingness to learn new techniques to improve my tech skills and career path.
 I can manage my time, plan and do it with the highest commitment.
