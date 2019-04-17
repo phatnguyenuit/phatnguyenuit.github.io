@@ -4,6 +4,5 @@ title: Projects
 permalink: /projects/
 ---
 
-- [Project 1](project_1)
-- [Project 2](project_2)
-- [Project 3](project_3)
+- [Redux with Todo Login](https://simple-redux-todo.herokuapp.com/){:target="\_blank"}
+- [Weather App](https://weather-app-846.herokuapp.com){:target="\_blank"}

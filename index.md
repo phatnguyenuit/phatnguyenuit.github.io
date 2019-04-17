@@ -5,4 +5,4 @@
 layout: home
 ---
 
-[![phatnguyenuit](https://avatars1.githubusercontent.com/u/19201982?s=240&v=4)](https://github.com/phatnguyenuit){:target="_blank"}
+[![phatnguyenuit](https://avatars1.githubusercontent.com/u/19201982?s=240&v=4)](https://github.com/phatnguyenuit){:target="\_blank"}

@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: phatnt95
-github_username:  phatnguyenuit
+github_username: phatnguyenuit
 
 # Build settings
 markdown: kramdown
@@ -34,7 +34,7 @@ plugins:
 # to override the default setting.
 exclude:
   - README.md
-#   - Gemfile.lock
+  - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
 #   - vendor/cache/
