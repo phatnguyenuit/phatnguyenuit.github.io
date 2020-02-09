@@ -8,7 +8,7 @@ permalink: /about/
 
 My name is **Phat** graduated from Viet Nam National Ho Chi Minh University, University of Information Technology(UIT). I am working as ReactJS Developer at Sendo.vn.
 
-I am focusing on React.js and some relavant libraries, I started to say: "Hello World!" three years ago. I love coding with React.js because it has a special approach to web development. Instead of using server-side rendering, React.js uses client-side rendering as default.
+I am focusing on **React.js**, **TypeScript** and some related libraries, I started to say: "Hello World!" three years ago. I love coding with React.js because it has a special approach to web development. Instead of using server-side rendering, React.js uses client-side rendering as default.
 
 Currently, beside my full-time job, I work as a freelancer using ReactJS as the main library to develop website in Javascript every night from 9PM to 12AM.
 I had built some side-projects from simple to advanced combined with several useful Javascript libraries like Redux, React Router Redux Persist, Axios, Mongoose... You can refer it in [projects](/projects)
