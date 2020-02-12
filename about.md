@@ -6,7 +6,7 @@ permalink: /about/
 
 # About Me
 
-My name is **Phat** graduated from Viet Nam National Ho Chi Minh University, University of Information Technology(UIT). I am working as ReactJS Developer at Sendo.vn.
+My name is **Phat** graduated from Viet Nam National Ho Chi Minh University, University of Information Technology(UIT). I am working as Software Developer at Sendo.vn.
 
 I am focusing on **React.js**, **TypeScript** and some related libraries, I started to say: "Hello World!" three years ago. I love coding with React.js because it has a special approach to web development. Instead of using server-side rendering, React.js uses client-side rendering as default.
 
