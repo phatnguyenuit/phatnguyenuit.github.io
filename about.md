@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-# About Me
+## About Me
 
 My name is **Phat** (aka **Fast**) graduated from Viet Nam National Ho Chi Minh University, University of Information Technology(UIT). I am working as **Software Engineer** at **Sendo.vn**.
 
