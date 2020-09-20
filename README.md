@@ -8,6 +8,6 @@
 
 1. Run: `bundle` to install dependencies.
 2. Run: `bundle exec jekyll build` to build static HTML content
-3. Run `npx gh-pages -d _site -b master -m something` to deploy
+3. Run `npx gh-pages -d _site -b master -m "something" -r https://github.com/phatnguyenuit/phatnguyenuit.github.io.git` to deploy
 
 Phat Nguyen
