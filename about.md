@@ -1,10 +1,8 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
-
-## About Me
 
 My name is **Phat** (aka **Fast**) graduated from Viet Nam National Ho Chi Minh University, University of Information Technology(UIT). Currently, I am working as a **Software Engineer** at [**Sendo.vn**](http://sendo.vn/).
 
