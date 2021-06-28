@@ -4,11 +4,16 @@ title: My Articles
 permalink: /articles/
 ---
 
-- [Build multiple level selection with ReactJS Hooks](https://medium.com/@fast.nguyen/build-multiple-level-selection-with-reactjs-hooks-d32add9b1177?source=friends_link&sk=2d6ccf22a11faadae80980f3d1d65662)
+- [How to get runtime type checking in TypeScript](https://medium.com/weekly-webtips/how-to-get-runtime-type-checking-in-typescript-ec06e88046f4?source=friends_link&sk=4c91c043879a0803a13c627bfe920fce)
+
+  > Have you ever think about how to get runtime type checking in TypeScript?
+  > If yes, the article above may be helpful for you.
+
+- [Build multiple level selection with ReactJS Hooks](https://medium.com/weekly-webtips/build-multiple-level-selection-with-reactjs-hooks-d32add9b1177?source=friends_link&sk=2d6ccf22a11faadae80980f3d1d65662)
 
   > In this article I show you how to build multiple level selection with ReactJS Hooks
 
-- [Say “Good bye” relative imports in NodeJS projects](https://medium.com/@fast.nguyen/say-good-bye-relative-imports-in-nodejs-projects-65513bcdae6c?source=friends_link&sk=2797966c2d15217e6a6ba9ab9fd120d9)
+- [Say “Good bye” relative imports in NodeJS projects](https://medium.com/weekly-webtips/say-good-bye-relative-imports-in-nodejs-projects-65513bcdae6c?source=friends_link&sk=2797966c2d15217e6a6ba9ab9fd120d9){:target="\_blank"}
 
   > In this article I show you how to use absolute path in NodeJS projects
 
