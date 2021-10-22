@@ -4,6 +4,10 @@ title: My Articles
 permalink: /articles/
 ---
 
+- [Prevent code duplication when writing unit tests with Jest .each](https://medium.com/tinyso/prevent-code-duplication-when-writing-unit-tests-with-jest-each-df412d6953c?source=friends_link&sk=0530dd92417cb95220c6be0e739a342a){:target="\_blank"}
+
+  > In this article, I show you how to prevent code duplication when writing unit tests with Jest .each API method. It makes your test cases maintainable.
+
 - [How to build a React library with TypeScript](https://medium.com/weekly-webtips/how-to-build-a-react-library-with-typescript-d0f08a1f517e?source=friends_link&sk=ce8f646adfd9e01b42f04ee2392ad588){:target="\_blank"}
 
   > You can build your own React packages just using TypeScript and Rollup after read through my article 😁.
