@@ -4,6 +4,10 @@ title: My Articles
 permalink: /articles/
 ---
 
+- [How to enforce TypeScript types in the runtime environment](https://medium.com/weekly-webtips/how-to-enforce-typescript-types-in-the-runtime-environment-3564ae33a792?source=friends_link&sk=c7d164b79be7829ac6f3a92fcfe7ada9){:target="\_blank"}
+
+  > In this article, I am going to show the way to enforce TypeScript types in the runtime environment. Because in the runtime environment, the real source code executed is JavaScript (after being compiled from TypeScript)
+
 - [Prevent code duplication when writing unit tests with Jest .each](https://medium.com/tinyso/prevent-code-duplication-when-writing-unit-tests-with-jest-each-df412d6953c?source=friends_link&sk=0530dd92417cb95220c6be0e739a342a){:target="\_blank"}
 
   > In this article, I show you how to prevent code duplication when writing unit tests with Jest .each API method. It makes your test cases maintainable.
