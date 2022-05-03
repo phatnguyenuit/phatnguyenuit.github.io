@@ -4,6 +4,11 @@ title: My Articles
 permalink: /articles/
 ---
 
+- [How to sort imports like a pro in TypeScript](https://medium.com/weekly-webtips/how-to-sort-imports-like-a-pro-in-typescript-4ee8afd7258a?source=friends_link&sk=e742dd891aebe663e39d4cbde969e922){:target="\_blank"}
+
+  > In this article, I am going to show the way to sort imports automatically in the TypeScript projects with ESLint. Just follow some steps, you can get this cool tip to help you develop faster without any concerns about the order of every single imports
+
+
 - [How to enforce TypeScript types in the runtime environment](https://medium.com/weekly-webtips/how-to-enforce-typescript-types-in-the-runtime-environment-3564ae33a792?source=friends_link&sk=c7d164b79be7829ac6f3a92fcfe7ada9){:target="\_blank"}
 
   > In this article, I am going to show the way to enforce TypeScript types in the runtime environment. Because in the runtime environment, the real source code executed is JavaScript (after being compiled from TypeScript)
